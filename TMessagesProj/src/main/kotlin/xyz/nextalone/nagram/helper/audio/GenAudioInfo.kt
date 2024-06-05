@@ -1,4 +1,4 @@
-package xyz.nextalone.nagram.helper.audio
+package org.uzbek.messanger.helper.audio
 
 import android.graphics.Bitmap
 import android.graphics.BitmapFactory

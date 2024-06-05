@@ -24,7 +24,7 @@ import java.util.List;
 import java.util.Locale;
 
 import tw.nekomimi.nekogram.helpers.remote.WallpaperHelper;
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class ChatThemeController extends BaseController {
 

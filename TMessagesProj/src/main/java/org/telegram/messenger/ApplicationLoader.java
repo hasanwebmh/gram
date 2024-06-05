@@ -66,7 +66,7 @@ import tw.nekomimi.nekogram.NekoXConfig;
 import tw.nekomimi.nekogram.helpers.AnalyticsHelper;
 import tw.nekomimi.nekogram.parts.SignturesKt;
 import tw.nekomimi.nekogram.utils.FileUtil;
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 import static android.os.Build.VERSION.SDK_INT;
 

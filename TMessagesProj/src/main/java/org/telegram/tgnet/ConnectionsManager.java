@@ -82,7 +82,7 @@ import tw.nekomimi.nekogram.utils.DnsFactory;
 import tw.nekomimi.nekogram.ErrorDatabase;
 
 import tw.nekomimi.nekogram.utils.ProxyUtil;
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class ConnectionsManager extends BaseController {
 

@@ -96,7 +96,7 @@ import java.util.function.Consumer;
 
 import tw.nekomimi.nekogram.NekoXConfig;
 import tw.nekomimi.nekogram.NekoConfig;
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class NotificationsController extends BaseController {
 

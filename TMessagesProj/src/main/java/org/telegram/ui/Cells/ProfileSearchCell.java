@@ -58,7 +58,7 @@ import org.telegram.ui.Stories.StoriesUtilities;
 
 import java.util.Locale;
 
-import xyz.nextalone.nagram.helper.MessageHelper;
+import org.uzbek.messanger.helper.MessageHelper;
 
 public class ProfileSearchCell extends BaseCell implements NotificationCenter.NotificationCenterDelegate {
 

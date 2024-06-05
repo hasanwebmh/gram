@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="N_Config">تكوين N-Config</string>
+    <string name="N_Config">تكوين Config</string>
     <string name="ForceCopy">إجبار النسخ</string>
     <string name="InvertReply">Invert</string>
     <string name="Great">عظيم</string>
@@ -89,7 +89,7 @@
     <string name="ShowForumAsNormalChat">إظهار المنتدى كمحادثة عادية</string>
     <string name="DecorationNone">لا</string>
     <string name="ChatDecoration">زخرفة الدردشة</string>
-    <string name="NeedChangeNekoSettings">تحتاج إلى تغيير الإعدادات N-إعدادات</string>
+    <string name="NeedChangeNekoSettings">تحتاج إلى تغيير الإعدادات إعدادات</string>
     <string name="DoNotUnarchiveBySwipe">لا تقم بإلغاء الأرشيف بالسحب</string>
     <string name="DoNotShareMyPhoneNumber">لا تشارك رقم هاتفي</string>
     <string name="DefaultDeleteMenu">حذف القائمة الافتراضية</string>

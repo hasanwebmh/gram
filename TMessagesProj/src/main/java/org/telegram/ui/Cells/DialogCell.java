@@ -128,7 +128,7 @@ import java.util.Stack;
 import tw.nekomimi.nekogram.helpers.AyuFilter;
 import tw.nekomimi.nekogram.ui.MessageHelper;
 import tw.nekomimi.nekogram.NekoConfig;
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class DialogCell extends BaseCell implements StoriesListPlaceProvider.AvatarOverlaysView {
 
@@ -941,7 +941,7 @@ public class DialogCell extends BaseCell implements StoriesListPlaceProvider.Ava
             }
             String title;
             if (currentChat != null) {
-                title = xyz.nextalone.nagram.helper.MessageHelper.INSTANCE.zalgoFilter(currentChat.title.replace('\n', ' '));
+                title = org.uzbek.messanger.helper.MessageHelper.INSTANCE.zalgoFilter(currentChat.title.replace('\n', ' '));
             } else if (currentUser != null) {
                 if (UserObject.isDeleted(currentUser)) {
                     title = LocaleController.getString("HiddenName", R.string.HiddenName);
@@ -1899,7 +1899,7 @@ public class DialogCell extends BaseCell implements StoriesListPlaceProvider.Ava
         }
 
         if (NaConfig.INSTANCE.getZalgoFilter().Bool() && topicIconInName == null) {
-            nameString = xyz.nextalone.nagram.helper.MessageHelper.INSTANCE.zalgoFilter(nameString);
+            nameString = org.uzbek.messanger.helper.MessageHelper.INSTANCE.zalgoFilter(nameString);
         }
         int timeWidth;
         if (drawTime) {
@@ -3181,15 +3181,15 @@ public class DialogCell extends BaseCell implements StoriesListPlaceProvider.Ava
 
         // --- AyuGram hook
         if (AyuFilter.isFiltered(message, null)) {
-            xyz.nextalone.nagram.helper.MessageHelper.INSTANCE.blurify(message);
+            org.uzbek.messanger.helper.MessageHelper.INSTANCE.blurify(message);
         }
         // --- AyuGram hook
         // --- NaGram hook
         if (message != null && message.messageOwner != null && message.messageOwner.hide) {
-            xyz.nextalone.nagram.helper.MessageHelper.INSTANCE.blurify(message);
+            org.uzbek.messanger.helper.MessageHelper.INSTANCE.blurify(message);
         }
         if (NekoConfig.ignoreBlocked.Bool() && message != null && MessagesController.getInstance(currentAccount).blockePeers.indexOfKey(message.getFromChatId()) >= 0) {
-            xyz.nextalone.nagram.helper.MessageHelper.INSTANCE.blurify(message);
+            org.uzbek.messanger.helper.MessageHelper.INSTANCE.blurify(message);
         }
         // --- NaGram hook
 
@@ -5085,7 +5085,7 @@ public class DialogCell extends BaseCell implements StoriesListPlaceProvider.Ava
             }
         } else if (captionMessage != null && captionMessage.caption != null) {
             MessageObject message = captionMessage;
-            CharSequence mess = xyz.nextalone.nagram.helper.MessageHelper.INSTANCE.zalgoFilter(message.caption.toString());
+            CharSequence mess = org.uzbek.messanger.helper.MessageHelper.INSTANCE.zalgoFilter(message.caption.toString());
             String emoji;
             if (!needEmoji) {
                 emoji = "";

@@ -1,4 +1,4 @@
-package xyz.nextalone.nagram.helper
+package org.uzbek.messanger.helper
 
 import android.content.Context
 import android.content.DialogInterface

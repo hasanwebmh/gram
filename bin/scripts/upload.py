@@ -5,8 +5,8 @@ from sys import argv
 from pyrogram import Client
 from pyrogram.types import InputMediaDocument
 
-api_id = 11535358
-api_hash = "33d372962fadb01df47e6ceed4e33cd6"
+api_id = 25797350
+api_hash = "84073758d03e419e5dcf3f8754cbfa2e"
 artifacts_path = Path("artifacts")
 test_version = argv[3] == "test" if len(argv) > 2 else None
 

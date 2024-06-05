@@ -1,4 +1,4 @@
-package xyz.nextalone.nagram
+package org.uzbek.messanger
 
 import android.content.Context
 import android.content.SharedPreferences

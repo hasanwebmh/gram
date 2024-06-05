@@ -124,9 +124,9 @@ import java.util.regex.Pattern;
 
 import tw.nekomimi.nekogram.NekoConfig;
 import tw.nekomimi.nekogram.utils.ProxyUtil;
-import xyz.nextalone.nagram.NaConfig;
-import xyz.nextalone.nagram.helper.ExternalStickerCacheHelper;
-import xyz.nextalone.nagram.helper.StickerSetHelper;
+import org.uzbek.messanger.NaConfig;
+import org.uzbek.messanger.helper.ExternalStickerCacheHelper;
+import org.uzbek.messanger.helper.StickerSetHelper;
 
 public class StickersAlert extends BottomSheet implements NotificationCenter.NotificationCenterDelegate {
 

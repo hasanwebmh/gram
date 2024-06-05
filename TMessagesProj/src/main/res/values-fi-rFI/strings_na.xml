@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="N_Config">N-Config</string>
+    <string name="N_Config">Config</string>
     <string name="ForceCopy">Pakota Kopio</string>
     <string name="InvertReply">Invert</string>
     <string name="Great">Hieno</string>
@@ -89,7 +89,7 @@
     <string name="ShowForumAsNormalChat">Näytä foorumi normaalina keskusteluna</string>
     <string name="DecorationNone">Ei Mitään</string>
     <string name="ChatDecoration">Keskustelun Koristelu</string>
-    <string name="NeedChangeNekoSettings">Sinun täytyy muuttaa N-asetuksia</string>
+    <string name="NeedChangeNekoSettings">Sinun täytyy muuttaa asetuksia</string>
     <string name="DoNotUnarchiveBySwipe">Älä poista arkistoa pyyhkäisemällä</string>
     <string name="DoNotShareMyPhoneNumber">Älä jaa puhelinnumeroani</string>
     <string name="DefaultDeleteMenu">Poista Oletusvalikko</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="N_Config">N-konfigurasjon</string>
+    <string name="N_Config">konfigurasjon</string>
     <string name="ForceCopy">Tving kopi</string>
     <string name="InvertReply">Invert</string>
     <string name="Great">Utmerket</string>
@@ -19,7 +19,7 @@
     <string name="SendReactions">Send reaksjoner</string>
     <string name="ShowReactions">Vis Reaksjoner</string>
     <string name="CustomTitle">Tilpasset tittel</string>
-    <string name="CustomTitleHint">La stå tomt for å bruke Nagram</string>
+    <string name="CustomTitleHint">La stå tomt for å bruke Aliigram</string>
     <string name="CodeSyntaxHighlight">Fremheving av kode syntaks</string>
     <string name="CreateMono">Opprett monospace</string>
     <string name="CreateMonoLanguage">Kode språk</string>
@@ -89,7 +89,7 @@
     <string name="ShowForumAsNormalChat">Vis forum som normal chat</string>
     <string name="DecorationNone">Ingen</string>
     <string name="ChatDecoration">Chat dekorasjon</string>
-    <string name="NeedChangeNekoSettings">Du må endre N-innstillinger</string>
+    <string name="NeedChangeNekoSettings">Du må endre innstillinger</string>
     <string name="DoNotUnarchiveBySwipe">Ikke hent vekk opptak ved å dra</string>
     <string name="DoNotShareMyPhoneNumber">Ikke del mitt telefonnummer</string>
     <string name="DefaultDeleteMenu">Standard slett menyen</string>

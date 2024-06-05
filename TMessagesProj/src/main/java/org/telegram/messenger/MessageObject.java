@@ -38,9 +38,9 @@ import androidx.annotation.NonNull;
 import androidx.collection.LongSparseArray;
 import androidx.core.graphics.ColorUtils;
 
-import xyz.nextalone.nagram.NaConfig;
-import xyz.nextalone.nagram.helper.MessageHelper;
-import xyz.nextalone.nagram.ui.syntaxhighlight.SyntaxHighlight;
+import org.uzbek.messanger.NaConfig;
+import org.uzbek.messanger.helper.MessageHelper;
+import org.uzbek.messanger.ui.syntaxhighlight.SyntaxHighlight;
 
 import org.telegram.PhoneFormat.PhoneFormat;
 import org.telegram.messenger.browser.Browser;

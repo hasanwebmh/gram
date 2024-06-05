@@ -27,12 +27,12 @@ import java.util.regex.Pattern;
 import cn.hutool.core.util.ArrayUtil;
 import cn.hutool.core.util.StrUtil;
 import tw.nekomimi.nekogram.database.NitritesKt;
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class NekoXConfig {
 
     //  public static String FAQ_URL = "https://telegra.ph/NekoX-FAQ-03-31";
-    public static String FAQ_URL = "https://github.com/NextAlone/Nagram#faq";
+    public static String FAQ_URL = "https://github.com/Ne";
     public static long[] officialChats = {
 //            1305127566, // NekoX Updates
 //            1151172683, // NekoX Chat

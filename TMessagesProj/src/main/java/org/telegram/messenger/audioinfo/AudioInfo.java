@@ -26,7 +26,7 @@ import java.io.FileInputStream;
 import java.io.InputStream;
 import java.io.RandomAccessFile;
 
-import xyz.nextalone.nagram.helper.audio.GenAudioInfo;
+import org.uzbek.messanger.helper.audio.GenAudioInfo;
 
 public abstract class AudioInfo {
 	protected String brand;			// brand, e.g. "M4A", "ID3", ...

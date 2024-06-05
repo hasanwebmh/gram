@@ -61,7 +61,7 @@ import org.telegram.ui.TopicsFragment;
 
 import java.util.concurrent.atomic.AtomicReference;
 
-import xyz.nextalone.nagram.helper.MessageHelper;
+import org.uzbek.messanger.helper.MessageHelper;
 
 public class ChatAvatarContainer extends FrameLayout implements NotificationCenter.NotificationCenterDelegate {
 

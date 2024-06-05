@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="N_Config">N-Ρύθμιση</string>
+    <string name="N_Config">Ρύθμιση</string>
     <string name="ForceCopy">Εξαναγκασμός Αντιγραφής</string>
     <string name="InvertReply">Invert</string>
     <string name="Great">Μεγάλη</string>
@@ -19,7 +19,7 @@
     <string name="SendReactions">Αποστολή Αντιδράσεων</string>
     <string name="ShowReactions">Εμφάνιση Αντιδράσεων</string>
     <string name="CustomTitle">Προσαρμοσμένος Τίτλος</string>
-    <string name="CustomTitleHint">Αφήστε κενό για να χρησιμοποιήσετε το Nagram</string>
+    <string name="CustomTitleHint">Αφήστε κενό για να χρησιμοποιήσετε το Aliigram</string>
     <string name="CodeSyntaxHighlight">Επισήμανση σύνταξης κώδικα</string>
     <string name="CreateMono">Δημιουργία Monospace</string>
     <string name="CreateMonoLanguage">Κωδικός γλώσσας</string>

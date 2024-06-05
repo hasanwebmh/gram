@@ -17,7 +17,7 @@
  * <https://www.gnu.org/licenses/>
  */
 
-package xyz.nextalone.nagram.ui.syntaxhighlight;
+package org.uzbek.messanger.ui.syntaxhighlight;
 
 import android.text.Spannable;
 import android.text.Spanned;
@@ -31,7 +31,7 @@ import androidx.annotation.Nullable;
 
 import java.util.HashMap;
 
-import xyz.nextalone.nagram.prism4j.Prism4j;
+import org.uzbek.messanger.prism4j.Prism4j;
 
 public abstract class Prism4jThemeBase implements Prism4jTheme {
 

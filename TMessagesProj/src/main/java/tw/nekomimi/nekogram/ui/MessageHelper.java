@@ -458,7 +458,7 @@ public class MessageHelper extends BaseController {
         }
         File file = new File(path);
         if (file.exists()) {
-            xyz.nextalone.nagram.helper.MessageHelper.INSTANCE.addFileToClipboard(file, callback);
+            org.uzbek.messanger.helper.MessageHelper.INSTANCE.addFileToClipboard(file, callback);
         }
     }
 
@@ -477,7 +477,7 @@ public class MessageHelper extends BaseController {
             FileOutputStream stream = new FileOutputStream(png);
             image.compress(Bitmap.CompressFormat.PNG, 100, stream);
             stream.close();
-            xyz.nextalone.nagram.helper.MessageHelper.INSTANCE.addFileToClipboard(png, callback);
+            org.uzbek.messanger.helper.MessageHelper.INSTANCE.addFileToClipboard(png, callback);
         } catch (Exception e) {
             FileLog.e(e);
         }

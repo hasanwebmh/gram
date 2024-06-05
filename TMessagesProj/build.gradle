@@ -14,11 +14,11 @@ repositories {
     }
 }
 
-def verName = "10.12.0"
+def verName = "1.1"
 def verCode = 1176
 
 
-def officialVer = "10.12.0"
+def officialVer = "1.1"
 def officialCode = 4710
 
 def serviceAccountCredentialsFile = rootProject.file("service_account_credentials.json")
@@ -83,10 +83,10 @@ def nativeTarget = System.getenv("NATIVE_TARGET")
 if (nativeTarget == null) nativeTarget = ""
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 34
     ndkVersion rootProject.ext.ndkVersion
 
-    defaultConfig.applicationId = "xyz.nextalone.nagram"
+    defaultConfig.applicationId = "org.uzbek.messanger"
 
     splits {
 
@@ -116,8 +116,8 @@ android {
         versionName verName
         versionCode verCode
 
-        def appId = "11535358"
-        def appHash = "33d372962fadb01df47e6ceed4e33cd6"
+        def appId = "25797350"
+        def appHash = "84073758d03e419e5dcf3f8754cbfa2e"
 
         //obtain your own keys at https://core.telegram.org/api/obtaining_api_id
 
@@ -240,7 +240,7 @@ android {
 
     applicationVariants.configureEach { variant ->
         variant.outputs.configureEach { output ->
-            String gramName = "Nagram"
+            String gramName = "Aliigram"
             String first = String.format("%s-v%s(%s)", gramName, versionName, versionCode)
             String name = outputFileName.replace("TMessagesProj", first)
             name = name.replace("-release", "")

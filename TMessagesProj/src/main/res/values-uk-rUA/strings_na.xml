@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="N_Config">N-конфігурації</string>
+    <string name="N_Config">конфігурації</string>
     <string name="ForceCopy">Примусова копія</string>
     <string name="InvertReply">Invert</string>
     <string name="Great">Чудово</string>
@@ -89,7 +89,7 @@
     <string name="ShowForumAsNormalChat">Показувати форум як звичайний чат</string>
     <string name="DecorationNone">Без ефекту</string>
     <string name="ChatDecoration">Прикраса Чату</string>
-    <string name="NeedChangeNekoSettings">Необхідно змінити параметри N-Settings</string>
+    <string name="NeedChangeNekoSettings">Необхідно змінити параметри Settings</string>
     <string name="DoNotUnarchiveBySwipe">Зробити не архівування свайпом</string>
     <string name="DoNotShareMyPhoneNumber">Не ділитися моїм номером телефону</string>
     <string name="DefaultDeleteMenu">Видалити меню за замовчуванням</string>

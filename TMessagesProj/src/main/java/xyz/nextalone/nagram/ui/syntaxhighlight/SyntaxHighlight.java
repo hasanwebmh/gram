@@ -17,7 +17,7 @@
  * <https://www.gnu.org/licenses/>
  */
 
-package xyz.nextalone.nagram.ui.syntaxhighlight;
+package org.uzbek.messanger.ui.syntaxhighlight;
 
 import android.graphics.Color;
 import android.text.Spannable;
@@ -31,8 +31,8 @@ import org.telegram.tgnet.TLRPC;
 import org.telegram.ui.ActionBar.Theme;
 import org.telegram.ui.Components.TextStyleSpan;
 
-import xyz.nextalone.nagram.NaConfig;
-import xyz.nextalone.nagram.prism4j.Prism4j;
+import org.uzbek.messanger.NaConfig;
+import org.uzbek.messanger.prism4j.Prism4j;
 
 public class SyntaxHighlight {
 

@@ -1,12 +1,12 @@
-package xyz.nextalone.nagram.prism4j.languages;
+package org.uzbek.messanger.prism4j.languages;
 
 import androidx.annotation.NonNull;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import xyz.nextalone.nagram.prism4j.GrammarUtils;
-import xyz.nextalone.nagram.prism4j.Prism4j;
+import org.uzbek.messanger.prism4j.GrammarUtils;
+import org.uzbek.messanger.prism4j.Prism4j;
 
 import static java.util.regex.Pattern.CASE_INSENSITIVE;
 import static java.util.regex.Pattern.compile;

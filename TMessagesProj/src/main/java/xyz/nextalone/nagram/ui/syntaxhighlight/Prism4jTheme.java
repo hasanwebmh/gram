@@ -17,14 +17,14 @@
  * <https://www.gnu.org/licenses/>
  */
 
-package xyz.nextalone.nagram.ui.syntaxhighlight;
+package org.uzbek.messanger.ui.syntaxhighlight;
 
 import android.text.Spannable;
 
 import androidx.annotation.ColorInt;
 import androidx.annotation.NonNull;
 
-import xyz.nextalone.nagram.prism4j.Prism4j;
+import org.uzbek.messanger.prism4j.Prism4j;
 
 public interface Prism4jTheme {
 

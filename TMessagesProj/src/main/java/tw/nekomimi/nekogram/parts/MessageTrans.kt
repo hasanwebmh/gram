@@ -13,7 +13,7 @@ import tw.nekomimi.nekogram.utils.AlertUtil
 import tw.nekomimi.nekogram.utils.UIUtil
 import tw.nekomimi.nekogram.utils.uDismiss
 import tw.nekomimi.nekogram.utils.uUpdate
-import xyz.nextalone.nagram.NaConfig
+import org.uzbek.messanger.NaConfig
 import java.util.*
 import java.util.concurrent.atomic.AtomicBoolean
 import java.util.concurrent.atomic.AtomicInteger

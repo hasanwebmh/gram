@@ -8,8 +8,8 @@
 
 package org.telegram.ui.Components;
 
-import static xyz.nextalone.nagram.helper.MessageHelper.canSendAsDice;
-import static xyz.nextalone.nagram.helper.MessageHelper.containsMarkdown;
+import static org.uzbek.messanger.helper.MessageHelper.canSendAsDice;
+import static org.uzbek.messanger.helper.MessageHelper.containsMarkdown;
 import static org.telegram.messenger.AndroidUtilities.dp;
 import static org.telegram.messenger.AndroidUtilities.dpf2;
 import static org.telegram.messenger.AndroidUtilities.lerp;
@@ -216,9 +216,9 @@ import tw.nekomimi.nekogram.ui.BottomBuilder;
 import tw.nekomimi.nekogram.utils.AlertUtil;
 import tw.nekomimi.nekogram.utils.PGPUtil;
 import tw.nekomimi.nekogram.utils.UIUtil;
-import xyz.nextalone.nagram.NaConfig;
-import xyz.nextalone.nagram.helper.Dialogs;
-import xyz.nextalone.nagram.ui.syntaxhighlight.SyntaxHighlight;
+import org.uzbek.messanger.NaConfig;
+import org.uzbek.messanger.helper.Dialogs;
+import org.uzbek.messanger.ui.syntaxhighlight.SyntaxHighlight;
 
 public class ChatActivityEnterView extends BlurredFrameLayout implements NotificationCenter.NotificationCenterDelegate, SizeNotifierFrameLayout.SizeNotifierFrameLayoutDelegate, StickersAlert.StickersAlertDelegate, SuggestEmojiView.AnchorViewDelegate {
 

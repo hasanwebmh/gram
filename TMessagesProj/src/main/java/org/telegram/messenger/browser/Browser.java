@@ -53,7 +53,7 @@ import java.net.URLEncoder;
 import java.util.List;
 import java.util.regex.Matcher;
 
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class Browser {
 

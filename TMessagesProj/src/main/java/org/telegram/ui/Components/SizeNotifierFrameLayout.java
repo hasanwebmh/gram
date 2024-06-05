@@ -52,7 +52,7 @@ import org.telegram.ui.ChatBackgroundDrawable;
 import java.util.ArrayList;
 
 import tw.nekomimi.nekogram.NekoConfig;
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class SizeNotifierFrameLayout extends FrameLayout {
 

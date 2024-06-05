@@ -67,7 +67,7 @@ import java.util.concurrent.atomic.AtomicReference;
 import kotlin.Unit;
 import tw.nekomimi.nekogram.NekoConfig;
 import tw.nekomimi.nekogram.ui.BottomBuilder;
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class AboutLinkCell extends FrameLayout {
 

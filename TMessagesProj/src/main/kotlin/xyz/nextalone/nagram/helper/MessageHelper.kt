@@ -1,4 +1,4 @@
-package xyz.nextalone.nagram.helper
+package org.uzbek.messanger.helper
 
 import android.content.ClipData
 import android.content.ClipboardManager
@@ -37,7 +37,7 @@ import org.telegram.tgnet.TLRPC.TL_messageMediaPoll
 import org.telegram.ui.ActionBar.Theme
 import org.telegram.ui.ChatActivity
 import org.telegram.ui.Components.ColoredImageSpan
-import xyz.nextalone.nagram.NaConfig
+import org.uzbek.messanger.NaConfig
 import java.io.File
 import java.io.FileOutputStream
 import java.util.Date

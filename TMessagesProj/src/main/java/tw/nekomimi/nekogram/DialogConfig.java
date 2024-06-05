@@ -5,7 +5,7 @@ import android.content.SharedPreferences;
 
 import org.telegram.messenger.ApplicationLoader;
 
-import xyz.nextalone.nagram.NaConfig;
+import org.uzbek.messanger.NaConfig;
 
 public class DialogConfig {
     private static final SharedPreferences preferences = ApplicationLoader.applicationContext.getSharedPreferences("nekodialogconfig", Context.MODE_PRIVATE);

@@ -17,7 +17,7 @@
  * <https://www.gnu.org/licenses/>
  */
 
-package xyz.nextalone.nagram.ui.syntaxhighlight;
+package org.uzbek.messanger.ui.syntaxhighlight;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -28,33 +28,33 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import xyz.nextalone.nagram.prism4j.GrammarLocator;
-import xyz.nextalone.nagram.prism4j.Prism4j;
-import xyz.nextalone.nagram.prism4j.languages.Prism_brainfuck;
-import xyz.nextalone.nagram.prism4j.languages.Prism_c;
-import xyz.nextalone.nagram.prism4j.languages.Prism_clike;
-import xyz.nextalone.nagram.prism4j.languages.Prism_clojure;
-import xyz.nextalone.nagram.prism4j.languages.Prism_cpp;
-import xyz.nextalone.nagram.prism4j.languages.Prism_csharp;
-import xyz.nextalone.nagram.prism4j.languages.Prism_css;
-import xyz.nextalone.nagram.prism4j.languages.Prism_css_extras;
-import xyz.nextalone.nagram.prism4j.languages.Prism_dart;
-import xyz.nextalone.nagram.prism4j.languages.Prism_git;
-import xyz.nextalone.nagram.prism4j.languages.Prism_go;
-import xyz.nextalone.nagram.prism4j.languages.Prism_groovy;
-import xyz.nextalone.nagram.prism4j.languages.Prism_java;
-import xyz.nextalone.nagram.prism4j.languages.Prism_javascript;
-import xyz.nextalone.nagram.prism4j.languages.Prism_json;
-import xyz.nextalone.nagram.prism4j.languages.Prism_kotlin;
-import xyz.nextalone.nagram.prism4j.languages.Prism_latex;
-import xyz.nextalone.nagram.prism4j.languages.Prism_makefile;
-import xyz.nextalone.nagram.prism4j.languages.Prism_markdown;
-import xyz.nextalone.nagram.prism4j.languages.Prism_markup;
-import xyz.nextalone.nagram.prism4j.languages.Prism_python;
-import xyz.nextalone.nagram.prism4j.languages.Prism_scala;
-import xyz.nextalone.nagram.prism4j.languages.Prism_sql;
-import xyz.nextalone.nagram.prism4j.languages.Prism_swift;
-import xyz.nextalone.nagram.prism4j.languages.Prism_yaml;
+import org.uzbek.messanger.prism4j.GrammarLocator;
+import org.uzbek.messanger.prism4j.Prism4j;
+import org.uzbek.messanger.prism4j.languages.Prism_brainfuck;
+import org.uzbek.messanger.prism4j.languages.Prism_c;
+import org.uzbek.messanger.prism4j.languages.Prism_clike;
+import org.uzbek.messanger.prism4j.languages.Prism_clojure;
+import org.uzbek.messanger.prism4j.languages.Prism_cpp;
+import org.uzbek.messanger.prism4j.languages.Prism_csharp;
+import org.uzbek.messanger.prism4j.languages.Prism_css;
+import org.uzbek.messanger.prism4j.languages.Prism_css_extras;
+import org.uzbek.messanger.prism4j.languages.Prism_dart;
+import org.uzbek.messanger.prism4j.languages.Prism_git;
+import org.uzbek.messanger.prism4j.languages.Prism_go;
+import org.uzbek.messanger.prism4j.languages.Prism_groovy;
+import org.uzbek.messanger.prism4j.languages.Prism_java;
+import org.uzbek.messanger.prism4j.languages.Prism_javascript;
+import org.uzbek.messanger.prism4j.languages.Prism_json;
+import org.uzbek.messanger.prism4j.languages.Prism_kotlin;
+import org.uzbek.messanger.prism4j.languages.Prism_latex;
+import org.uzbek.messanger.prism4j.languages.Prism_makefile;
+import org.uzbek.messanger.prism4j.languages.Prism_markdown;
+import org.uzbek.messanger.prism4j.languages.Prism_markup;
+import org.uzbek.messanger.prism4j.languages.Prism_python;
+import org.uzbek.messanger.prism4j.languages.Prism_scala;
+import org.uzbek.messanger.prism4j.languages.Prism_sql;
+import org.uzbek.messanger.prism4j.languages.Prism_swift;
+import org.uzbek.messanger.prism4j.languages.Prism_yaml;
 
 public class Prism4jGrammarLocator implements GrammarLocator {
 

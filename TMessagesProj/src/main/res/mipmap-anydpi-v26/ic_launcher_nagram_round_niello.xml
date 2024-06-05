@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
     <background android:drawable="@drawable/ic_launcher_nagram_round_niello_background"/>
-    <foreground android:drawable="@drawable/ic_launcher_nagram_round_niello_foreground"/>
+    <foreground>
+        <inset android:drawable="@drawable/rasm"
+            android:inset="15%"/>
+    </foreground>
     <monochrome android:drawable="@drawable/ic_launcher_nagram_round_niello_foreground"/>
 </adaptive-icon>

@@ -303,8 +303,8 @@ import tw.nekomimi.nekogram.ui.BottomBuilder;
 import tw.nekomimi.nekogram.utils.AlertUtil;
 import tw.nekomimi.nekogram.utils.ProxyUtil;
 import tw.nekomimi.nekogram.utils.VibrateUtil;
-import xyz.nextalone.nagram.NaConfig;
-import xyz.nextalone.nagram.helper.MessageHelper;
+import org.uzbek.messanger.NaConfig;
+import org.uzbek.messanger.helper.MessageHelper;
 
 @SuppressLint("WrongConstant")
 @SuppressWarnings("unchecked")

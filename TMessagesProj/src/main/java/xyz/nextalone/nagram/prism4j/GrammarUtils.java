@@ -1,4 +1,4 @@
-package xyz.nextalone.nagram.prism4j;
+package org.uzbek.messanger.prism4j;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

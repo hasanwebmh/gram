@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="N_Config">N-Configuratie</string>
+    <string name="N_Config">Configuratie</string>
     <string name="ForceCopy">Forceer kopiëren</string>
     <string name="InvertReply">Invert</string>
     <string name="Great">Fantastisch</string>
@@ -19,7 +19,7 @@
     <string name="SendReactions">Verstuur reacties</string>
     <string name="ShowReactions">Toon reacties</string>
     <string name="CustomTitle">Aangepaste titel</string>
-    <string name="CustomTitleHint">Laat leeg om Nagram te gebruiken</string>
+    <string name="CustomTitleHint">Laat leeg om Aliigram te gebruiken</string>
     <string name="CodeSyntaxHighlight">Syntaxis code benadrukken</string>
     <string name="CreateMono">Maak Monospace</string>
     <string name="CreateMonoLanguage">Taal code</string>
@@ -89,7 +89,7 @@
     <string name="ShowForumAsNormalChat">Toon forum als normale chat</string>
     <string name="DecorationNone">geen</string>
     <string name="ChatDecoration">Chat Versiering</string>
-    <string name="NeedChangeNekoSettings">Je moet de N-instellingen wijzigen</string>
+    <string name="NeedChangeNekoSettings">Je moet de instellingen wijzigen</string>
     <string name="DoNotUnarchiveBySwipe">Dearchiveren niet door te vegen</string>
     <string name="DoNotShareMyPhoneNumber">Mijn telefoonnummer niet delen</string>
     <string name="DefaultDeleteMenu">Standaard menu verwijderen</string>

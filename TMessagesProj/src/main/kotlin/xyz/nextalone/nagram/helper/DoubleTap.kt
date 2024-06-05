@@ -1,4 +1,4 @@
-package xyz.nextalone.nagram.helper
+package org.uzbek.messanger.helper
 
 import org.telegram.messenger.LocaleController
 import org.telegram.messenger.R

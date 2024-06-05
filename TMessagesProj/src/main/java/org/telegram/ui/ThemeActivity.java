@@ -117,7 +117,7 @@ import java.util.Locale;
 import java.util.concurrent.atomic.AtomicReference;
 
 import tw.nekomimi.nekogram.NekoConfig;
-import xyz.nextalone.nagram.helper.Dialogs;
+import org.uzbek.messanger.helper.Dialogs;
 
 public class ThemeActivity extends BaseFragment implements NotificationCenter.NotificationCenterDelegate {
 

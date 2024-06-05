@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="N_Config">N-Конфигурация</string>
+    <string name="N_Config">Конфигурация</string>
     <string name="ForceCopy">Скопировать принудительно</string>
     <string name="InvertReply">Invert</string>
     <string name="Great">Отличное</string>
@@ -19,7 +19,7 @@
     <string name="SendReactions">Отправить реакции</string>
     <string name="ShowReactions">Показать реакции</string>
     <string name="CustomTitle">Пользовательское название</string>
-    <string name="CustomTitleHint">Оставьте пустым, чтобы использовать Nagram</string>
+    <string name="CustomTitleHint">Оставьте пустым, чтобы использовать Aliigram</string>
     <string name="CodeSyntaxHighlight">Подсветка синтаксиса кода</string>
     <string name="CreateMono">Создать моноширинный</string>
     <string name="CreateMonoLanguage">Язык кода</string>
@@ -89,7 +89,7 @@
     <string name="ShowForumAsNormalChat">Показывать форум как обычный чат</string>
     <string name="DecorationNone">Нет</string>
     <string name="ChatDecoration">Облик Чата</string>
-    <string name="NeedChangeNekoSettings">Вам нужно изменить N-настройки</string>
+    <string name="NeedChangeNekoSettings">Вам нужно изменить настройки</string>
     <string name="DoNotUnarchiveBySwipe">Не разархивировать свайпом</string>
     <string name="DoNotShareMyPhoneNumber">Не показывать мой номер телефона</string>
     <string name="DefaultDeleteMenu">Меню удаления по умолчанию</string>
